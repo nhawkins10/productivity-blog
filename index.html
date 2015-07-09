@@ -2,17 +2,6 @@
 layout: default
 ---
 
-<!--<ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-</ul>-->
 <div class="sidebar">
 	<h1 class="title">Jekyll Test Blog</h1>
 	<ul class="main-nav">
@@ -23,5 +12,15 @@ layout: default
 	<img class="profile-image" src="{{ site.baseurl }}/images/Jellyfish.jpg">
 </div>
 <div class="content"> 
+	<ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post">
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        <h2>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+</ul>
 </div>
