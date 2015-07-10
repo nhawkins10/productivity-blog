@@ -9,7 +9,7 @@ layout: default
 		<li><a class="nav-link" href="{{site.baseurl }}/about">About</a></li>
 		<li><a class="nav-link" href="">Contact</a></li>
 	</ul>
-	<img class="profile-image" src="{{ site.baseurl }}/images/Jellyfish.jpg">
+	<!--<img class="profile-image" src="{{ site.baseurl }}/images/profile.png">-->
 </div>
 <div class="content"> 
 	<ul class="post-list">
@@ -18,7 +18,7 @@ layout: default
 		<li class="post">
 			<div class="post-highlight {{ post.color }}-background"></div>
 			<h2 class="post-header {{ post.color }}-text">{{ post.title }}</h2>
-			{{ post.content | strip_html | truncatewords: 40 }}
+			{{ post.content | strip_html | truncatewords: 30 }}
 		</li>
 	  </a>
     {% endfor %}

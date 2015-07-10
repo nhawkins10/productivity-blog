@@ -66,6 +66,7 @@ body {
 	float: left;
 	margin-left: 40px;
 	margin-bottom: 40px;
+	font: 14px sans-serif;
 }
 
 .post:hover {
@@ -90,6 +91,10 @@ body {
 	text-decoration: none;
 	color: #999;
 	font: 14px sans-serif;
+}
+
+.post-header {
+	font-size: 26px;
 }
 
 .yellow-text {
