@@ -14,13 +14,13 @@ layout: default
 <div class="content"> 
 	<ul class="post-list">
     {% for post in site.posts %}
-      <li class="post">
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+		<li class="post">
+			<div class="post-highlight {{ post.color }}-background"></div>
+			<h2 class="post-header {{ post.color }}-text">{{ post.title }}</h2>
+			{{ post.content | strip_html | truncatewords: 40 }}
+		</li>
+	  </a>
     {% endfor %}
 </ul>
 </div>

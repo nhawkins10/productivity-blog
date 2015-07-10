@@ -65,4 +65,77 @@ body {
 	padding: 0 18px;
 	float: left;
 	margin-left: 40px;
+	margin-bottom: 40px;
+}
+
+.post:hover {
+	background-color: #181818;
+	color: white;
+}
+
+.post:hover > .post-highlight {
+	width: 311px;
+}
+
+.post-highlight {
+	position: relative;
+	width: 0;
+	height: 5px;
+	left: -18px;
+	transition: width .2s;
+	-webkit-transition: width .2s;
+}
+
+.post-link {
+	text-decoration: none;
+	color: #999;
+	font: 14px sans-serif;
+}
+
+.yellow-text {
+	color: #f1dc33;
+}
+
+.blue-text {
+	color: #35b1ea;
+}
+
+.green-text {
+	color: #92e451;
+}
+
+.purple-text {
+	color: #c495f5;
+}
+
+.teal-text {
+	color: #1deeee;
+}
+
+.pink-text {
+	color: #f56acc;
+}
+
+.yellow-background {
+	background-color: #f1dc33;
+}
+
+.blue-background {
+	background-color: #35b1ea;
+}
+
+.green-background {
+	background-color: #92e451;
+}
+
+.purple-background {
+	background-color: #c495f5;
+}
+
+.teal-background {
+	background-color: #1deeee;
+}
+
+.pink-background {
+	background-color: #f56acc;
 }
