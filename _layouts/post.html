@@ -1,9 +1,22 @@
 ---
 layout: default
 ---
-
-<h1>{{ pate.title }}</h1>
-<span>{{ page.date }}</span>
-<div>
-{{ content }}
+<div class="reader">
+	<div class="sidebar">
+		<h1 class="title">Jekyll Test Blog</h1>
+		<ul class="main-nav">
+			<li><a class="nav-link" href="{{ site.baseurl }}/">Index</a></li>
+			<li><a class="nav-link" href="{{site.baseurl }}/about">About</a></li>
+			<li><a class="nav-link" href="">Contact</a></li>
+		</ul>
+	</div>
+	<div class="content"> 
+		<div class="reader-accent {{ page.color }}-background"></div>
+		<h1 class="reader-header">{{ page.title }}</h1>
+		<div class="reader-text">
+		{{ content }}
+		</div>
+		<div class="reader-date">{{ page.date | date: '%B %-d, %Y' }}</div>
+	</div>
 </div>
+
