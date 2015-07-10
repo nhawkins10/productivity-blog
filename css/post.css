@@ -20,18 +20,24 @@
 }
 
 .reader-header {
-	text-align: center;
+	padding: 0 15%;
 }
 
 .reader-text {
 	padding: 0 15%;
+	font-size: 18px;
+	max-width: 700px;
+	color: #333;
+	letter-spacing: 1px;
+	line-height: 1.5em;
 }
 
 .reader-date {
   text-align: center;
   /*border-top: 1px solid #ccc;*/
-  padding: 40px 0;
+  padding: 40px 15%;
   font-weight: bold;
+  max-width: 700px;
 }
 
 .reader-date:before {
