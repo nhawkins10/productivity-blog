@@ -168,7 +168,7 @@ body {
 	}
 
 	.post:hover > .post-highlight {
-		height: 170px;
+		height: 186px;
 	}
 
 	.post-highlight {
@@ -176,7 +176,7 @@ body {
 		height: 0px;
 		float: left;
 		margin-left: -18px;
-		margin-top: -10px;
+		margin-top: -18px;
 		transition: height 0s; 
 		-webkit-transition: height 0s;
 	}
