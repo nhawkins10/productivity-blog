@@ -65,6 +65,19 @@
 	}
 }
 
+.ref-link {
+	text-decoration: none;
+}	
+
+.ref-article {
+	color: #888;
+}
+
+.ref-site {
+	color: #bbb;
+	font-style: italic;
+}
+
 .reader-date:before {
 	content: 'Published ';
 }
