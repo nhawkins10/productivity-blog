@@ -1,0 +1,16 @@
+---
+layout: post
+date: 2015-07-14
+color: green
+title: "The Eisenhower Matrix"
+---
+
+References
+<a class="ref-link" target="_blank" href="http://www.artofmanliness.com/2013/10/23/eisenhower-decision-matrix/">
+	<span class="ref-article">The Eisenhower Decision Matrix: How to Distinguish Between Urgent and Important Tasks and Make Real Progress in Your Life</span>
+	<span class="ref-site">Art of Manliness</span>
+</a>
+<a class="ref-link" target="_blank" href="http://waitbutwhy.com/2015/03/procrastination-matrix.html">
+	<span class="ref-article">The Procrastination Matrix</span>
+	<span class="ref-site">Wait but Why</span>
+</a>
