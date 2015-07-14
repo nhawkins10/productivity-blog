@@ -15,6 +15,15 @@ layout: default
 		<h1 class="reader-header">{{ page.title }}</h1>
 		<div class="reader-text">
 		{{ content }}
+		{% if page.references %}
+			<div class="ref-header">References</div>
+			{% for item in page.references %}
+				<a class="ref-link" target="_blank" href="{{ item.reference.location }}">
+					<div class="ref-article">{{ item.reference.name }}</div>
+					<div class="ref-site">{{ item.reference.source }}</div>
+				</a>
+			{% endfor %}
+		{% endif %}
 		</div>
 		<div class="reader-date">{{ page.date | date: '%B %-d, %Y' }}</div>
 	</div>

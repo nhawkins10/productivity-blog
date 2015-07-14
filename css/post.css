@@ -65,6 +65,10 @@
 	}
 }
 
+.ref-header {
+	font-weight: bold;
+}
+
 .ref-link {
 	text-decoration: none;
 }	
@@ -76,8 +80,9 @@
 .ref-site {
 	color: #bbb;
 	font-style: italic;
+	text-indent: 1em;
 }
 
 .reader-date:before {
 	content: 'Published ';
-}
+}	
