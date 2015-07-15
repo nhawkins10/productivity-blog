@@ -67,10 +67,18 @@
 
 .ref-header {
 	font-weight: bold;
+	margin-top: 150px;
+	border-top: 1px solid #bbb;
+	padding-top: 70px;
+	padding-bottom: 10px;
 }
 
 .ref-link {
 	text-decoration: none;
+}
+
+.ref-link:hover > .ref-article {
+	text-decoration: underline;
 }	
 
 .ref-article {
