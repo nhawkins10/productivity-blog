@@ -209,6 +209,12 @@ img {
 	text-align: center;
 }
 
+img.vertical {
+	max-height: 200px;
+	width: auto;
+	margin-left: 33%;
+}
+
 .yellow-text {
 	color: #f1dc33;
 }
@@ -247,7 +253,7 @@ img {
 
 .purple-background {
 	background-color: #c495f5;
-}
+}	
 
 .teal-background {
 	background-color: #1deeee;
