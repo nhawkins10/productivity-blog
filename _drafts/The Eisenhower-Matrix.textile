@@ -12,9 +12,52 @@ references:
     source: "Wait but Why"
     name: "The Procrastination Matrix"
     location: "http://waitbutwhy.com/2015/03/procrastination-matrix.html"
+- reference:
+    source: "American Presidency Project"
+    name: "Dwight D. Eisenhower"
+    location: "http://www.presidency.ucsb.edu/ws/?pid=9991"
+- reference:
+    source: "Wikipedia"
+    name: "Dwight D. Eisenhower"
+    location: "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+- reference: 
+    source: "Wikipedia"
+    name: "Time Management"
+    location: "https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla sem, dignissim quis varius quis, blandit et diam. Vivamus fermentum urna non lorem accumsan tincidunt. Nunc pharetra dolor dapibus, viverra ante sed, hendrerit est. Nulla efficitur id nisl sed convallis. Aliquam eget ex vel ipsum facilisis sagittis nec sit amet orci. Pellentesque neque augue, auctor quis tempor et, ultrices eget sapien. Quisque id libero sit amet orci suscipit egestas sit amet eget justo. Praesent at neque vehicula, iaculis erat molestie, aliquet enim. Nam vitae ipsum nec dui suscipit tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin ac nulla est. Aliquam lobortis ultricies sem, a vestibulum felis maximus nec. Nunc auctor diam sit amet justo scelerisque, et egestas lectus euismod. Cras efficitur aliquet accumsan. Donec vitae purus varius turpis dictum eleifend sed sit amet velit. Nam eu elit ut nisl porttitor sodales.
+Today I want to look at a method of prioritizing tasks that provides a nice visual to way to categorize and prioritize tasks. This method it known as the Eisenhower method or the Eisenhower productivity matrix. The name comes from a quote made by President Dwight Eisenhower where he said "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent."
 
-<img src="{{ site.baseurl }}/images/eisenhower-matrix.png">
+*Who was Eisenhower?*
+
+<img class="vertical" src="{{ site.baseurl }}/images/eisenhower.jpg">
+<div class="img-caption">President Eisenhower</div>
+
+Eisenhower was by all accounts a pretty successful guy. He served in the Army, rose to the rank of five star general, served as supreme commander of the allied forces in Europe during World War 2, served as president of Columbia University as well as president of the United States. Quite an impressive list of accomplishments! Eisenhower is assumed to have used the method that we are going to look at today. As productive as Eisenhower was, it seems worthwhile to examine a method that may have helped him achieve such success.
+
+The basic idea of this method is pretty simple. It consists of a box with four quadrants representing various levels of importance and urgency. Here's an example of what it looks like:	
+
+<img src="{{ site.baseurl }}/images/eisenhower-matrix-numbered.png">
 <div class="img-caption">The Eisenhower Matrix</div>
+
+As you can see we now have four quadrants that we can use to categorize the things we do:
+
+1. Important and Urgent
+2. Important but not Urgent
+3. Urgent but not Important
+4. Not Urgent and not Important
+
+
+*What do these look like?*
+Here are a few examples of what might something in each category might look like. Category one might include things like projects at work that have an approaching deadline, a college paper due soon, or homework that has to be submitted by the end of the week. These are things that are important, but also need to be done now. This is a pretty good quadrant to spend time it. We're getting things done that are important to us.
+Category two items could be things like learning to play the guitar or spending time with friends. These are things that are definitely important but they don't have the same sense of urgency as category one items. Since this category isn't urgent, it can be easy to let slide if things in the other categories are taking up a lot of our time. Ideally though, this is the category where we are spending a lot of our time. The goal is to be spending most of our time in categories one and two. 
+
+Category three is things that need to be done now, but really aren't that important. This can include interruptions from other people and some emails and meetings. Sometimes it may be that something isn't important in general or it may be that it's not important to you personally. When you spend a lot of time in this area it can feel like you're constantly putting out fires. It's not a place we want to be spending a lot of time. 
+Finally we get to category four which largely consists of hobbies, leisure activities and time wasters. The interesting thing about this category is we can feel good about spending time here or we can feel guilty, even though we're doing the same things! It all depends on whether you have categories one, two and three under control or if you're neglecting them to spend time in category four. I think we can all relate to getting done with a project or day of work and going home, kicking back and just relaxing and it feeling really good. The flip side of this is if we know that we have something that we need to be doing because it's important or urgent or both, but we're procrastinating and wasting time instead. That typically doesn't feel super good. It works both ways.
+
+*How do we use this?*
+So now that we know what this matrix is, how can we use it to be more productive? One of the first things you have to do is determine what is important to you. This is going to be different for everybody, but it should be tied to whatever your goals are long term. Once you've figured that out, then you can begin to place everything that you do into one of these categories. At first you might not like how it looks, but that's okay. The first step to improving is realizing that something needs to change. 
+
+Once you have everything categorized, you can begin to look for ways to change where you're spending your time. Ultimately we would like to be spending most of our time in categories one and two with some time in category four after we get done what we need to do. Some time in category three in inevitable, but we would like to keep this to a minimum if possible. So what are some ways to get there? Sometimes it might mean planning ahead and starting a project early so a deadline doesn't sneak up on us and create a fire that we have to put out. Maybe it means saying no to doing certain things so we can spend that time somewhere else. Maybe it means cutting out some time wasters throughout the day. 
+
+There really isn't a right or wrong way to do this. It's really more about realizing where you are currently and determining what changes you need to make to get to where you want to be. The Eisenhower matrix can provide a nice way to do just that.
