@@ -64,6 +64,12 @@
 	}
 }
 
+.quote {
+	background-color: #eee;
+	padding: 5px;
+	text-align: center;
+}
+
 .ref-header {
 	font-weight: bold;
 	margin-top: 150px;
@@ -92,4 +98,4 @@
 
 .reader-date:before {
 	content: 'Published ';
-}	
+}		
