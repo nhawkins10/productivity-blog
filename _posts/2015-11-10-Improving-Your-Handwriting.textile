@@ -1,0 +1,32 @@
+---
+layout: post
+date: 2015-11-10
+color: blue
+title: "Improving Your Handwriting"
+references:
+- reference: 
+    source: "YouTube TEDxMileHigh"
+    name: "Why write? Penmanship for the 21st Century"
+    location: "https://youtu.be/85bqT904VWA"
+- reference: 
+    source: "Handwriting Success"
+    name: "Getty-Dubay Italic Handwriting"
+    location: "http://handwritingsuccess.com/"
+- reference: 
+    source: "Bullet Journal Blog"
+    name: "The Handwriting Challenge"
+    location: "http://bulletjournal.com/the-handwriting-challenge/"
+---
+Handwriting is likely something that each of us do in some way every day. Whether it's journaling, making a grocery list, or leaving a post-it note for a coworker, writing is an integral part of our lives. We typically don't give handwriting a second thought unless we see something really bad or especially good. How many times have you or I written something only to come back later and find that it is totally unreadable. All too often it seems, this chicken scratch is our default style of writing. We have probably all at some point, seen an old handwritten letter or note and wished that our handwriting looked more like that than what it currently does. 
+
+
+*Some Inspiration*
+Today I would like to share a couple of things that I've found that can help inspire improved handwriting and some resources to help get started. The first is a TED talk by Jake Weidmann. He gives a short talk on the history of handwriting and some of the benefits of handwriting. He is a master penman and demonstrates some of his beautiful work in the talk as well. 
+
+<iframe width="665" height="374" src="https://www.youtube.com/embed/85bqT904VWA" frameborder="0" allowfullscreen></iframe>
+
+
+*Handwriting Method*
+The second thing is a writing method that is legible, works when writing quickly, and can be used as print or cursive. It's called Getty-Dubay Italic Handwriting. They have a book that is a complete course containing practice exercises as well as a history of how our letters developed. On the website, though, there are some examples and samples that can be used to begin practicing right away. The resulting letters are beautiful and easy to read. I've linked out to the website in the resources section.
+
+There are many other resources available to improve your handwriting, but these are two that should get you started. Take a look and see if you aren't inspired to at least give improving your handwriting a shot! 
