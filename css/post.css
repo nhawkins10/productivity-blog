@@ -85,6 +85,7 @@
 	text-decoration: none;
 	color: #268bd2;
 	background: #eee;
+	white-space: nowrap;
 }
 
 .tag:hover {
