@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2015-11-17
+color: yellow
+title: "The Pomodoro Technique"
+references:
+- reference: 
+    source: "Fast Company"
+    name: "The Simple Technique To Fit A 40-Hour Workweek Into 16.7 Hours"
+    location: "http://www.fastcompany.com/3053036/how-to-be-a-success-at-everything/the-simple-technique-to-fit-a-40-hour-work-week-into-167-h"
+- reference: 
+    source: "UC San Diego Counseling and Psychological Services"
+    name: "Paper by Francesco Cirilio, Creater [PDF]"
+    location: "http://caps.ucsd.edu/Downloads/tx_forms/koch/pomodoro_handouts/ThePomodoroTechnique_v1-3.pdf"
+---
