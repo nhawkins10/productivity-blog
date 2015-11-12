@@ -16,6 +16,10 @@ references:
     source: "Bullet Journal Blog"
     name: "The Handwriting Challenge"
     location: "http://bulletjournal.com/the-handwriting-challenge/"
+tags:
+- handwriting
+- ted
+- bullet journal
 ---
 Handwriting is likely something that each of us do in some way every day. Whether it's journaling, making a grocery list, or leaving a post-it note for a coworker, writing is an integral part of our lives. We typically don't give handwriting a second thought unless we see something really bad or especially good. How many times have you or I written something only to come back later and find that it is totally unreadable. All too often it seems, this chicken scratch is our default style of writing. We have probably all at some point, seen an old handwritten letter or note and wished that our handwriting looked more like that than what it currently does. 
 

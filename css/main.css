@@ -213,6 +213,44 @@ img.vertical {
 	width: auto;
 }
 
+/***************************************************/
+/**********           Category Page       **********/
+/***************************************************/
+.tag-list {
+	padding: 0 0 30px;
+	margin: 0;
+	list-style-type: none;
+}
+
+.tag-label {
+	background: #eee;
+    color: #268bd2;
+    display: inline-block;
+	margin-bottom: 5px;
+}
+
+.tag-link {
+	color: #888;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.tag-link:hover {
+	text-decoration: underline;
+}
+
+.tag-date {
+	color: #bbb;
+	font-size: .9em;
+}
+
+.tag-date:before {
+	content: '- '
+}
+
+/***************************************************/
+/*************           Colors       **************/
+/***************************************************/
 .yellow-text {
 	color: #f1dc33;
 }

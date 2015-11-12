@@ -12,4 +12,18 @@ references:
     source: "UC San Diego Counseling and Psychological Services"
     name: "Paper by Francesco Cirilio, Creater [PDF]"
     location: "http://caps.ucsd.edu/Downloads/tx_forms/koch/pomodoro_handouts/ThePomodoroTechnique_v1-3.pdf"
+tags:
+- time management
+- prioritization
+- pomodoro
+- cats
+- dogs
+- cows
+- monkeys
+- alligators
+- canadian geese
+- elephants
+- owls
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla sem, dignissim quis varius quis, blandit et diam. Vivamus fermentum urna non lorem accumsan tincidunt. Nunc pharetra dolor dapibus, viverra ante sed, hendrerit est. Nulla efficitur id nisl sed convallis. Aliquam eget ex vel ipsum facilisis sagittis nec sit amet orci. Pellentesque neque augue, auctor quis tempor et, ultrices eget sapien. Quisque id libero sit amet orci suscipit egestas sit amet eget justo. Praesent at neque vehicula, iaculis erat molestie, aliquet enim. Nam vitae ipsum nec dui suscipit tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin ac nulla est. Aliquam lobortis ultricies sem, a vestibulum felis maximus nec. Nunc auctor diam sit amet justo scelerisque, et egestas lectus euismod. Cras efficitur aliquet accumsan. Donec vitae purus varius turpis dictum eleifend sed sit amet velit. Nam eu elit ut nisl porttitor sodales.

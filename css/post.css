@@ -70,11 +70,28 @@
 	text-align: center;
 }
 
+.tags-header {
+	display: inline-block;
+    color: #888;
+}
+
+.tag {
+	text-decoration: none;
+    padding: 0 3px;
+	text-decoration: none;
+	color: #268bd2;
+	background: #eee;
+}
+
+.tag:hover {
+	text-decoration: underline;
+}
+
 .ref-header {
 	font-weight: bold;
-	margin-top: 150px;
+	margin-top: 50px;
 	border-top: 1px solid #bbb;
-	padding-top: 70px;
+	padding-top: 50px;
 	padding-bottom: 10px;
 }
 
